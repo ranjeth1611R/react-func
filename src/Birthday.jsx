@@ -86,7 +86,7 @@ const Birthday= ()=>{
          <NavbarComp />
         <div className="full">
             <main className="whitepg">
-            <h1>{data.length} Birthday Today</h1>
+            <h1>{data.length} Birthdays Today</h1>
             {data.map((zoro,i)=>(
                 <div key={i}>
 
