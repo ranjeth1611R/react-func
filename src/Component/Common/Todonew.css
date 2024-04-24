@@ -1,0 +1,111 @@
+.toofan{
+    display: flex;
+    margin-top: 35px;
+}
+.STR{
+    background-color: rgb(134, 72, 192);
+    width: 900px; height: 200px;
+    border-radius: 20px;
+}
+.todopg{
+    background-color: grey;
+    margin-top: 150px;
+    height: 450px;
+}
+.todomain{
+    position: relative;
+    left: 100px;
+    bottom: 80px;
+    text-align: center;
+    background-color: white;
+    width: 700px; height: 140px;
+    box-shadow: 2px 2px 5px;
+    border-radius: 10px;
+}
+.todoinput{
+    margin-top: 20px;
+    width: 65%;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+}
+.todobtn{
+    background-color: rgb(165, 38, 38);
+    color: white;
+    width: 100px;
+    margin-top: 20px;
+}
+.mappg{
+    position: relative;
+    left: 100px;
+    bottom: 89px;
+    border:1px solid;
+    width: 700px; height: 38px; 
+}
+.divi{
+    display: flex;
+    flex-direction:row;
+}
+.task{
+    font-size: 17px;
+    padding-left: 20px;
+    padding-top: 7px;
+}
+.check{
+    position: relative;
+    left:420px;
+    bottom: 32px;
+    /* background-color: rgb(54, 116, 54); */
+}
+.editbtn{
+    position: relative;
+    left:450px;
+    bottom: 32px;
+    /* background-color: rgb(90, 90, 170); */
+}
+.deletebtn{
+    position: relative;
+    left:490px;
+    bottom: 32px;
+    color: brown;
+}
+.mintitle{
+    position: relative;
+    width: 700px; height: 48px;
+    left: 100px;
+    bottom:30px;
+    border:1px solid;
+    padding-top: 5px;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.minlist{
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    width: 700px; height: 28px;
+    left: 100px;
+    bottom: 50px;
+    background-color: rgb(102, 99, 99);
+    margin-bottom: 15px;
+}
+.min1{
+    position: relative;
+    left: 21px;
+}
+.min2{
+    position: relative;
+    left:410px;
+}
+.min3{
+    position: relative;
+    left:450px;
+}
+.min4{
+    position: relative;
+    left:490px;
+}
+.topic{
+    position: relative;
+    left: 540px;
+}

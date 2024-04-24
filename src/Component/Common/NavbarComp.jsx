@@ -22,12 +22,12 @@ function NavbarComp (args) {
   return (
     <div>
       <Navbar {...args}>
-        <NavbarBrand href="/">reactstrap</NavbarBrand>
+        <NavbarBrand href="/"><h3>Exclusive</h3></NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
           <Nav className="me-auto" navbar>
             <NavItem>
-              <NavLink href="/components/">Components</NavLink>
+              <NavLink href="/CardComp">Components</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="https://github.com/reactstrap/reactstrap">

@@ -1,0 +1,65 @@
+.toofan{
+    background-color: rgb(85, 48, 119);
+    height:100vh;   
+}
+.STR{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 90vh;
+}
+.todopg{
+    background-color: black; 
+    padding: 20px;
+    width: 400px;height: auto;
+    text-align: center;
+}
+.mappg{
+    font-size: 14px;
+    color: white;
+    
+}
+.task{
+    display: inline-block;
+    font-size: 27px;
+    float: left;
+}
+.editbtn{
+    background-color: aqua; 
+}
+.editbtn :hover{
+    background-color: rgb(10, 12, 12); 
+}
+.delbtn{
+    background-color: red;
+}
+.delbtn,.editbtn {
+    float: right;
+    margin: 5px;
+}
+.divi{
+    background-color: rgb(88, 24, 88) ;
+    margin: 10px;
+    width:auto; height: 35px;
+}
+.todomain{
+    margin-bottom: 25px;
+}
+.todotitle{
+    margin-bottom: 25px;
+
+    color: white;
+}
+.todoinput{
+    width:65%;
+    padding-left:10px;
+    border: none;
+    outline: none;
+    
+}
+.todobtn{
+    width: 25%;
+    background-color:rgb(88, 24, 88) ;
+    color: white;
+}

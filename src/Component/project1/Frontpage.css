@@ -1,0 +1,75 @@
+.menu{
+    font-size: 40px
+}
+.topbtn{
+    font-size: 55px;
+    width: 150px; height: 70px;
+}
+.transform{
+    padding: 30%;
+}
+.transform button{
+    width: 230px;
+    font-size: 30px;
+}
+.transform h1{
+    font-size: 50px;
+}
+.slidecontent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-weight: bold;
+}
+.iconbox{
+    width: 76px;
+    height: 76px;
+    background-color: violet;
+    border-radius: 50%;
+    display: flex; justify-content: center; align-items: center;
+}
+.icon{
+    font-size: 35px;
+}
+.iconlorem{
+    margin: 75px auto;
+}
+.pineapple{
+    background: url(src/assets/pineapple.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.breadcontent{
+    position: relative;
+    bottom: 250px;
+}
+.sizeimg{
+    width: 555px;
+    height: 608px;
+    background-color:  #FFF0A1;
+    display: flex;
+    justify-content: center;
+}
+.inputbox{
+border: 1px solid#0066CC;;
+padding-top: 10px; padding-bottom: 10px;
+padding-left: 20px; padding-right: 35px;
+}
+.inputicon{
+    font-size: 15px;
+    background-color:#0066CC;;
+    padding-top: 10px; padding-bottom: 10px;
+    height: 50px;width: 45px;
+}
+.footericon{
+    font-size: 25px;
+}
+.footer{
+    padding-top: 30px;
+}
+.footerpri{
+    position: relative;
+    left: 90px;
+
+}

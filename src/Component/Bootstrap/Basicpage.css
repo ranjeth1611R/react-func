@@ -1,0 +1,67 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.top{
+    font-size: 13px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    height: 25px;
+}
+.headerinput{
+    width: 250px;
+}
+.shopicon,.loveicon{
+    padding-left: 8px;
+    font-size: 30px;
+}
+.leftsli{
+    border-right: 1px solid grey;
+}
+.iphone{
+    background-color: black;
+    width: 100%; height: 100%;
+}
+.iphone-logo{
+    font-size: 50px;
+    padding-right: 15px;
+}
+.iphone-content{
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+.smallred{
+    width:20px;height: 40px;
+}
+.timing{
+    font-size: 10px;
+    position: relative;
+    left: 172px; top: 13px;
+}
+.firstbtn{
+    width:170px;height: 35px;
+}
+.phone{
+    font-size: 50px;
+}
+.btnround{
+    width: 70px; height: 70px;
+    border-radius: 50%;
+}
+.musicbtn{
+    width: 150px; height: 50px;background-color: green;
+}
+.footer{
+    padding-left: 50px;
+}
+.footericon{
+    font-size: 25px;
+}
+.thirdbtn{
+    width: 90px; height:35px;
+    background-color: rgb(199, 0, 0);
+    padding: 5px;
+}
